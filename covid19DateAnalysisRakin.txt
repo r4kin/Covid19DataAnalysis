@@ -5,8 +5,8 @@
     import time
     from io import StringIO
 
-    AWS_ACCESS_KEY = "AKIA4S7KF52LLAR2RFU2"
-    AWS_SECRET_KEY = "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"
+    AWS_ACCESS_KEY = "xxxx"
+    AWS_SECRET_KEY = "xxxx"
     AWS_REGION = 'ca-central-1'
     SCHEMA_NAME = "covid19_dataset"
     S3_STAGING_DIR = "s3://rakin-athena-output/output/"
